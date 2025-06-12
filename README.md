@@ -1,1 +1,1 @@
-# Classification-Depressions-Level-Based-on-EEG-using-Baggingg-Multiclass-Support-Vector-Machine
+# Classification-Depression-Levels-Based-on-EEG-using-Bagging-Multiclass-Support-Vector-Machine
